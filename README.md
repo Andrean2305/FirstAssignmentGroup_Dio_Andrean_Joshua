@@ -12,3 +12,6 @@ with this meta, we can make a csv file just with a function(1 function)
 
 <br>
 we add the csv file also in the repo so you can check
+
+<br>
+this is the link for our sheet : https://docs.google.com/spreadsheets/d/1HP8vuDAMdmIY9f93rlLvH5rbunZMpQfj0UAC4lm_Gwo/edit#gid=857899891
